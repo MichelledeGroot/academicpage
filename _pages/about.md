@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Portfolio #HIRE ME"
+title: "About #HIRE ME"
 author_profile: true
 redirect_from: 
   - /about/
