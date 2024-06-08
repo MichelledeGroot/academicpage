@@ -7,61 +7,16 @@ redirect_from:
   - /about.html
 ---
 
+My name is Michelle de Groot, and I am a driven and ambitious researcher with a strong background in genetics and bioinformatics. Holding a Master’s degree in Bioinformatics and Biocomplexity from Utrecht University, I have developed a deep understanding of genetic analysis, data mining, and the application of bioinformatics tools. My academic journey also includes a Bachelor’s degree in Bioinformatics from HAN, Nijmegen, and a minor in Medical Biology from Radboud University.
 
-## Work Experience
+Throughout my career, I have been committed to unraveling the mysteries of the human genome. My experiences in diagnostics, research and industry span several projects. At the Human Genetics Department of Radboud UMC Nijmegen, I implemented STR calling in a WES pipeline, enhancing genetic analysis with Java based framework. At UMC Utrecht’s Brain Center, I conducted a large-scale GWAS on ALS patients, confirming the association of the _UNC13A_ gene with survival, demonstrating my proficiency in handling and analyzing vast genetic datasets. 
 
-**Junior Process Mining Consultant**  
-*Daticx, Capelle a/d IJssel*  
-*May 2022 – Present*  
-- Conducted data and process mining to identify bottlenecks.
-- Translated identified issues into process optimization strategies.
+Additionally, at the Center for Mathematical Sciences, MSD-OSS, I collaborated with international colleagues to enhance a viral detection pipeline. By securing the RVSD curation in a container and profiling the effects, I improved efficiency using Docker and conducted statistical analysis on the curation process. At the Psychiatry Department, Brain Center, UMC Utrecht, I analyzed genetic and epigenetic data to identify sex-specific biomarkers of aging in response to childhood stress, using PC-corrected epigenetic clocks for accurate biological age estimation.
 
-## Research Experience
+In addition to my research expertise, I have applied my skills in the industry as a Junior Process Mining Consultant at Daticx. There, I identified process bottlenecks and optimized workflows through data and process mining, showcasing my ability to translate complex data into actionable insights.
 
-**Meta-Analysis of ALS Patients**  
-*Neurology Department, Brain Center, UMC Utrecht*  
-*February 2022 – January 2023*  
-- Conducted a large-scale Genome-Wide Association Study (GWAS) on nearly 10,000 ALS patients.
-- Confirmed association of UNC13A with ALS survival.
-- Demonstrated potential for discovering new associations by increasing sample size.
+Beyond my professional endeavors, I am actively involved in extracurricular activities that reflect my passion for teamwork and leadership. From 2019 to 2023, I was a dedicated member of several committees in two different student korfball associations. Additionally, in 2023-2024, I served as the Secretary on the board of the student korfball association in Utrecht, further developing my girl-boss capabilities.
 
-**Repeat Expansion Detection in WES Data**  
-*Human Genetics Department, Radboud UMC Nijmegen*  
-*September 2019 – February 2020*  
-- Implemented Short Tandem Repeat (STR) calling in Whole Exome Sequencing (WES) pipeline.
-- Developed and integrated software using Java to improve genetic analysis.
+My technical skill set includes proficiency in R, Python, Bash, Git, Java, SQL, and Docker, along with experience working on high-performance computing platforms. I am passionate about continuous learning and innovation, always seeking opportunities to apply my critical thinking and problem-solving abilities to cutting-edge medical research. I am eager to contribute to projects that push the boundaries of our understanding of genetics and improve healthcare outcomes.
 
-**Securing the RVSD Curation in a Container and Profiling the Effects**  
-*Center for Mathematical Sciences, MSD - OSS*  
-*February 2021 – July 2021*  
-- Collaborated with international colleagues to enhance viral detection pipeline.
-- Improved efficiency using Docker and conducted statistical analysis on the curation process.
-
-**Sex-Specific Biomarkers of Aging in Response to Childhood Stress**  
-*Psychiatry Department, Brain Center, UMC Utrecht*  
-*April 2023 – October 2023*  
-- Analyzed genetic and epigenetic data.
-- Used PC-corrected epigenetic clocks for accurate biological age estimation.
-- Aimed to identify biomarkers explaining sex differences in aging due to childhood trauma.
-
-## Skills
-- **Genetics & Bioinformatics:** GWAS, NGS bioinformatics pipeline, large-scale data analysis, FAIR data management.
-- **Technical Skills:** R, Python, Bash, Git, Java, SQL, Docker.
-- **Other Skills:** High-performance computing (HPC) platforms, strong communication, adaptability.
-
-## Education
-
-**Master in Bioinformatics and Biocomplexity**  
-*Utrecht University, Utrecht*  
-*September 2021 – January 2024*  
-- Courses: Advanced R, Cancer Genomics, Structural Bioinformatics and Modelling, Basic Machine Learning.
-
-**Bachelor in Bioinformatics**  
-*HAN, Nijmegen*  
-*September 2017 – August 2021*  
-- Achieved cum laude propaedeutic phase.
-
-**Minor in Medical Biology**  
-*Radboud University, Nijmegen*  
-*September 2020 – February 2021*  
-- Courses: Biology and Society, History of Biology, Molecular Principles of Development, Genomics for Health and Environment, Infectious Diseases.
+In my free time, I enjoy participating in sports, particularly kickboxing and fitness, and staying active in the community. 

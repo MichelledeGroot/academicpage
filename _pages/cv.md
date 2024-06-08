@@ -9,37 +9,88 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# Work Experience
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+**Junior Process Mining Consultant**  
+*Daticx, Capelle a/d IJssel*  
+*May 2022 – Present*  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Conducted data and process mining to identify bottlenecks.
+- Translated identified issues into process optimization strategies.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Research Experience**
+
+**Meta-Analysis of ALS Patients**  
+*Neurology Department, Brain Center, UMC Utrecht*  
+*February 2022 – January 2023*  
+
+- Conducted a large-scale Genome-Wide Association Study (GWAS) on nearly 10,000 ALS patients.
+- Confirmed association of UNC13A with ALS survival.
+- Demonstrated potential for discovering new associations by increasing sample size.
+
+**Repeat Expansion Detection in WES Data**  
+*Human Genetics Department, Radboud UMC Nijmegen*  
+*September 2019 – February 2020*  
+
+- Implemented Short Tandem Repeat (STR) calling in Whole Exome Sequencing (WES) pipeline.
+- Developed and integrated software using Java to improve genetic analysis.
+
+**Securing the RVSD Curation in a Container and Profiling the Effects**  
+*Center for Mathematical Sciences, MSD - OSS*  
+*February 2021 – July 2021*  
+
+- Collaborated with international colleagues to enhance viral detection pipeline.
+- Improved efficiency using Docker and conducted statistical analysis on the curation process.
+
+**Sex-Specific Biomarkers of Aging in Response to Childhood Stress**  
+*Psychiatry Department, Brain Center, UMC Utrecht*  
+*April 2023 – October 2023*  
+
+- Analyzed genetic and epigenetic data.
+- Used PC-corrected epigenetic clocks for accurate biological age estimation.
+- Aimed to identify biomarkers explaining sex differences in aging due to childhood trauma.
+
+# Skills
+
+- **Genetics & Bioinformatics**: GWAS, NGS bioinformatics pipeline, large-scale data analysis, FAIR data management.
+- **Technical Skills**: R, Python, Bash, Git, Java, SQL, Docker.
+- **Other Skills**: High-performance computing (HPC) platforms, strong communication, adaptability.
+
+# Education
+
+**Master in Bioinformatics and Biocomplexity**  
+*Utrecht University, Utrecht*  
+*September 2021 – January 2024*  
+
+- Courses: Advanced R, Cancer Genomics, Structural Bioinformatics and Modelling, Basic Machine Learning.
+
+**Bachelor in Bioinformatics**  
+*HAN, Nijmegen*  
+*September 2017 – August 2021*  
+
+- Achieved cum laude propaedeutic phase.
+
+**Minor in Medical Biology**  
+*Radboud University, Nijmegen*  
+*September 2020 – February 2021*  
+
+- Courses: Biology and Society, History of Biology, Molecular Principles of Development, Genomics for Health and Environment, Infectious Diseases.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Skills
+
+* Genetics & Bioinformatics
+* Technical Skills
+  * R
+  * Python
+  * Bash
+  * Git
+  * Java
+  * SQL
+  * Docker
+* Other Skills
+  * High-performance computing (HPC) platforms
+  * Strong communication
+  * Adaptability
 
 Publications
 ======
@@ -47,18 +98,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
