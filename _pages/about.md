@@ -19,4 +19,4 @@ Beyond my professional endeavors, I am actively involved in extracurricular acti
 
 My technical skill set includes proficiency in R, Python, Bash, Git, Java, SQL, and Docker, along with experience working on high-performance computing platforms. I am passionate about continuous learning and innovation, always seeking opportunities to apply my critical thinking and problem-solving abilities to cutting-edge medical research. I am eager to contribute to projects that push the boundaries of our understanding of genetics and improve healthcare outcomes.
 
-In my free time, I enjoy participating in sports, particularly kickboxing and fitness, and staying active in the community. 
+In my free time, I enjoy participating in sports, particularly kickboxing and fitness, listening to live music at concerts or café's or enjoy nature. 
