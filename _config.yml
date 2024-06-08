@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "nl_NL"
+title                    : "Michelle de Groot"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Michelle de Groot"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://michelledegroot.github.io/academicpage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "MichelledeGroot/academicpage"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Michelle de Groot"
+  pronouns         : "she/her"  
+  bio              : "Driven and ambitious with a strong research background in genetics, committed to unraveling the mysteries of the human genome. With a positive mindset, critical thinking, and an inquisitive nature, I continuously seek opportunities for personal growth and innovative solutions. Combining my technical skills with a passion for bioinformatics, I am excited to contribute to cutting-edge research and make a profound impact in the medical field."
+  location         : "Netherlands"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "michelle@rdegroot.net" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -43,12 +43,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "academicpage"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
