@@ -4,12 +4,12 @@ main:
     url: /portfolio/
     
   - title: "CV"
-    url: /cv/
+    url: /files/resume_Michelle_deGroot.pdf
     
   - title: "Publications"
     url: /publications/
 
-    
+
   
  # - title: "Guide"
  #   url: /markdown/
