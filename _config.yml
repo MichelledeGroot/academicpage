@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "nl_NL"
-title                    : "Michelle de Groot"
+title                    : "Michelle de Groot - Homepage"
 title_separator          : "-"
 name                     : &name "Michelle de Groot"
 description              : &description "MSc Bioinformatics"
