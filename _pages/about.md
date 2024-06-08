@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-### Portfolio
+# Portfolio
 
-#### Work Experience
+## Work Experience
 
 **Junior Process Mining Consultant**  
 *Daticx, Capelle a/d IJssel*  
@@ -17,7 +17,7 @@ redirect_from:
 - Conducted data and process mining to identify bottlenecks.
 - Translated identified issues into process optimization strategies.
 
-#### Research Experience
+## Research Experience
 
 **Meta-Analysis of ALS Patients**  
 *Neurology Department, Brain Center, UMC Utrecht*  
@@ -45,12 +45,12 @@ redirect_from:
 - Used PC-corrected epigenetic clocks for accurate biological age estimation.
 - Aimed to identify biomarkers explaining sex differences in aging due to childhood trauma.
 
-### Skills
+## Skills
 - **Genetics & Bioinformatics:** GWAS, NGS bioinformatics pipeline, large-scale data analysis, FAIR data management.
 - **Technical Skills:** R, Python, Bash, Git, Java, SQL, Docker.
 - **Other Skills:** High-performance computing (HPC) platforms, strong communication, adaptability.
 
-### Education
+## Education
 
 **Master in Bioinformatics and Biocomplexity**  
 *Utrecht University, Utrecht*  
