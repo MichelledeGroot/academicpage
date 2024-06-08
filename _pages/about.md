@@ -15,7 +15,7 @@ Additionally, at the Center for Mathematical Sciences, MSD-Oss, I collaborated w
 
 In addition to my research expertise, I have applied my skills in the industry as a Junior Process Mining Consultant at Daticx. There, I identified process bottlenecks and optimized workflows through data and process mining, showcasing my ability to translate complex data into actionable insights.
 
-Beyond my professional endeavors, I am actively involved in extracurricular activities that reflect my passion for teamwork and leadership. From 2019 to 2023, I was a dedicated member of several committees in two different student korfball associations. Additionally, in 2023-2024, I served as the Secretary on the board of the student korfball association in Utrecht, further developing my girl-boss capabilities.
+Beyond my professional endeavors, I am actively involved in extracurricular activities that reflect my passion for teamwork and leadership. From 2019 to 2023, I was a dedicated member of several committees in two different student korfball associations. Additionally, in 2023-2024, I served as the secretary on the board of the student korfball association in Utrecht, further developing my girl-boss capabilities.
 
 My technical skill set includes proficiency in R, Python, Bash, Git, Java, SQL, and Docker, along with experience working on high-performance computing platforms. I am passionate about continuous learning and innovation, always seeking opportunities to apply my critical thinking and problem-solving abilities to cutting-edge medical research. I am eager to contribute to projects that push the boundaries of our understanding of genetics and improve healthcare outcomes.
 
