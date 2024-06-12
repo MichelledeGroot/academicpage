@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-#Toevoegen wat zijn mijn doelen/ambities in een carriere, gebaseerd op motivatiebrieven?
 ---
 
 My name is Michelle de Groot, and I am a driven and ambitious researcher with a background in genetics and bioinformatics. Holding a Master’s degree in Bioinformatics and Biocomplexity from Utrecht University, I have developed a deep understanding of genetic analysis, data mining, and the application of bioinformatics tools. My academic journey also includes a Bachelor’s degree in Bioinformatics from HAN, Nijmegen, and a minor in Medical Biology from Radboud University.
@@ -18,7 +17,7 @@ In addition to my research expertise, I have applied my skills in the industry a
 
 Beyond my professional work, I am actively involved in extracurricular activities. From 2019 to 2023, I was a member of several committees in two different student korfball associations. Additionally, in 2023-2024, I served as the secretary on the board of the student korfball association in Utrecht, further developing my girl-boss capabilities.
 
-My technical skill set includes proficiency in R, Python, Bash, Git, Java, SQL, and Docker, along with experience working on high-performance computing platforms. I am passionate about continuous learning and innovation, always seeking opportunities to apply my critical thinking and problem-solving abilities to cutting-edge medical research. I am eager to contribute to projects that push the boundaries of our understanding of genetics and improve healthcare outcomes.
+My technical skill set includes proficiency in R, Python, Bash, Git, Java, SQL, and Docker, along with experience working on high-performance computing platforms. One thing I really enjoy is collaborating with people from different backgrounds, where I like being the bridge between biology and data analysis. It challenges me to deepen my understanding of different areas and helps me explain complex concepts in simple terms. I’ve received positive feedback for supporting my colleagues in data analysis or programming, which is something I find very rewarding. I am passionate about continuous learning and innovation, always seeking opportunities to apply my critical thinking and problem-solving abilities to cutting-edge medical research. I am eager to contribute to projects that push the boundaries of our understanding of genetics and improve healthcare outcomes.
 
 In my free time, I enjoy participating in sports, particularly kickboxing and fitness, listening to live music at concerts or cafes or enjoy nature. 
 
