@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Implementation of STR Calling in WES Pipeline"
+excerpt: "The project aimed to enhance genetic analysis by implementing Short Tandem Repeat (STR) calling in a Whole Exome Sequencing (WES) pipeline for which we used the ExpansionHunter tool. <br/><img src='/images/EH.jpeg'>"
 collection: portfolio
 ---
 
