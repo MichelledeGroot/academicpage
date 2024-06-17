@@ -8,11 +8,9 @@ main:
     
   - title: "Publications"
     url: /publications/
-
-
-  
- # - title: "Guide"
- #   url: /markdown/
+    
+   - title: "Extra"
+    url: /extra/
 
  # - title: "Talks"
  #   url: /talks/    
