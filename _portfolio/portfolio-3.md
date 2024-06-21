@@ -6,8 +6,8 @@ collection: portfolio
 
 ### Overview
 
-Institution: Human Genetics Department, Radboud UMC Nijmegen
-Duration: 5 months (september 2020-februari 2021)
+Institution: Human Genetics Department, Radboud UMC Nijmegen <br>
+Duration: 5 months (september 2020-februari 2021) <br>
 
 ### Summary
 
@@ -21,7 +21,7 @@ The successful implementation of STR calling added an extra type of variant call
 
 ### Skills 
 
-Programming Languages: Java, Bash
-Tools & Technologies: Whole Exome Sequencing (WES), STR Calling
-Analysis Techniques: Big data, Genetic analysis
+Programming Languages: Java, Bash <br>
+Tools & Technologies: Whole Exome Sequencing (WES), STR Calling <br>
+Analysis Techniques: Big data, Genetic analysis <br>
 
