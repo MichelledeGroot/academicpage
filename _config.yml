@@ -12,7 +12,7 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Michelle de Groot"
 description              : &description "MSc Bioinformatics"
-url                      : https://michelledegroot.github.io/academicpage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://michelledegroot.github.io/academicpage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MichelledeGroot/academicpage"
 

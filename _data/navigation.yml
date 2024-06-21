@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Portfolio"
-    url: portfolio/
+    url: /portfolio/
     
   - title: "CV"
-    url: files/resume_Michelle_deGroot.pdf
+    url: /files/resume_Michelle_deGroot.pdf
     
   - title: "Publications"
-    url: publications/
+    url: /publications/
     
   - title: "Extra"
-    url: extra/
+    url: /extra/
 
  # - title: "Talks"
  #   url: /talks/    
