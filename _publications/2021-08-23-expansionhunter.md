@@ -4,6 +4,7 @@ collection: publications
 permalink: /2021-08-23-expansionhunter
 date: 2021-08-23
 venue: 'Genetics in Medicine'
+excerpt: 'This paper is written based on my internship project at Radboud UMC'
 paperurl: 'http://academicpages.github.io/files/2021-08-23-expansionhunter.pdf'
 citation: 'van der Sanden BPGH, Corominas J, de Groot M, et al. Systematic analysis of short tandem repeats in 38,095 exomes provides an additional diagnostic yield. <i>Genet Med.</i> 2021;23(8):1569-1573. doi:10.1038/s41436-021-01174-1'
 ---
